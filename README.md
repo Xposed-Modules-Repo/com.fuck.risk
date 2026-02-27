@@ -53,4 +53,4 @@ https://github.com/yijun01/com.fuck.risk/
 
 📦 **Download**  📦
 
-![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.fuck.risk/total?logo=github&label=Total%20Downloads&labelColor=7E57C2&color=white)
+[![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.fuck.risk/total?logo=github&label=Total%20Downloads&labelColor=7E57C2&color=white)](https://github.com/yijun01/com.fuck.risk)
